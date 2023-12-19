@@ -22,11 +22,5 @@
     "make": "Volkswagen",
     "model": "Golf",
     "img": "https://i.pinimg.com/originals/03/5c/6d/035c6d9e39fe11852356f5d9d39bb015.png"
-  },
-  {
-    "id": 5,
-    "make": "Opel",
-    "model": "Astra",
-    "img": "https://p7.hiclipart.com/preview/968/886/494/opel-astra-car-renault-fluence-vauxhall-astra-vauxhall-astra.jpg"
   }
 ]
